@@ -15,4 +15,8 @@ public class MainActivity extends AppCompatActivity {
         int x;
         x=1;
     }
+    public void newfunction11(){
+        int x;
+        x=1;
+    }
 }
